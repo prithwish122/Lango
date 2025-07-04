@@ -1,48 +1,54 @@
 # 🔗 LIVE LINK: [Lango Start Learning Here](https://lll-eight-ochre.vercel.app/)
 
 # Lango  
-**A Decentralized App for Anonymous Language Exchange**
+**A MetaMask-Powered Decentralized App for Anonymous Language Exchange**
 
 ## 🌐 Overview  
-**Lango** is a next-generation decentralized application (dApp) designed for anonymous language exchange. It empowers global learners with secure interactions, AI-powered language assessment, and personalized token incentives—making language learning private, interactive, and rewarding.
+**Lango** is a next-generation decentralized application (dApp) for anonymous language exchange—powered by seamless **MetaMask SDK integration**. It enables global learners to connect, learn, and grow in a secure, rewarding, and privacy-respecting environment. From login to learning incentives, **MetaMask** is the gateway to your personalized, token-driven experience.
+
+> 🦊 **Powered by MetaMask** – Connect, authenticate, and manage your learning journey securely with integrated MetaMask wallet access.
 
 ---
 
 ## 🔑 Key Features
 
-### 🔒 Secure & Anonymous Learning  
-- Connect with global learners while keeping your identity private.  
-- Full control over your personal data and interactions.  
+### 🔒 MetaMask-Based Secure & Anonymous Learning  
+- Use **MetaMask login** for a truly anonymous, Web3-native identity.  
+- No emails, no usernames—just your wallet.  
+- Full control over your data, sessions, and learning interactions.
 
 ### ⛓️ Blockchain Security & Tokenized Rewards  
-- Tamper-proof and transparent learning records.  
-- Earn Lango tokens for participation, progress, and engagement.  
-- Use tokens to access premium resources and platform experiences.  
+- **MetaMask handles your wallet interactions**, so rewards are seamlessly tracked and received.  
+- Earn Lango tokens directly to your wallet for progress and participation.  
+- Use tokens within the platform to unlock premium language tools and resources.
 
 ### 🤖 AI-Powered Language Assessment & Feedback  
-- **Real-time AI Evaluation**: Adjusts difficulty (Easy, Medium, Hard) based on your progress.  
-- **AI-Generated MCQs**: Take interactive quizzes with instant feedback and scoring.  
-- **Grammar & Pronunciation Checker**: Improve with AI-driven suggestions on spoken and written input.
+- **Real-time AI Evaluation** adjusts learning complexity (Easy, Medium, Hard).  
+- AI-generated MCQs and instant feedback on grammar and pronunciation.  
+- Progress data securely tied to your **MetaMask wallet identity**.
 
 ### 🎯 Personalized Learning Experience  
-- Choose your preferred mode: text, audio, or video.  
-- AI-crafted learning paths based on your skill level and goals.  
-- Practice conversations with advanced multilingual AI chatbots.
+- Flexible sessions via text, audio, or video—tailored by AI.  
+- AI-generated learning paths specific to your MetaMask-linked activity.  
+- Converse with multilingual chatbots for real-life simulation and improvement.
 
-### 🌍 Community & Certification  
-- Share, review, and receive feedback from fellow learners.  
-- Earn verifiable **NFT-based language certificates** upon course completion.
-
----
-
-## 💡 Why Choose Lango?
-
-✅ **Structured Learning Paths** – Follow intelligent, guided language learning journeys.  
-✅ **Incentivized Learning** – Get rewarded for consistency and contributions.  
-✅ **DeFi-Enabled Rewards** – Your progress carries real-world token value.  
-✅ **AI-Enhanced Experience** – Adaptive and engaging learning powered by smart algorithms.  
-✅ **Privacy-Centric Design** – Learn and interact while staying in control of your identity.
+### 🌍 Community & NFT Certification  
+- Review sessions, share insights, and receive peer feedback—all linked to your MetaMask identity.  
+- On course completion, **NFT-based certificates** are minted directly to your wallet.
 
 ---
 
-**Lango** redefines global language learning through decentralization, intelligent tools, and user-first design—turning every interaction into progress and every effort into value. 🚀🌍
+## 🦊 Why MetaMask Makes Lango Better
+
+✅ **Instant Login via MetaMask** – No forms, no passwords—just Web3.  
+✅ **One Wallet, One Profile** – Your learning progress, rewards, and identity are all wallet-bound.  
+✅ **Decentralized & Private** – No central server owns your data—MetaMask gives you full control.  
+✅ **Wallet-Integrated Rewards** – Earn tokens instantly and use them with zero friction.  
+✅ **Secure Blockchain Certificates** – Store your achievements as NFTs in your MetaMask wallet.  
+
+---
+
+## 💬 Summary  
+Lango redefines language learning for the decentralized world. With **MetaMask SDK** at its core, Lango offers anonymous onboarding, blockchain-secured interactions, and token-based incentives—all while delivering a fully AI-enhanced educational experience.
+
+> Whether you're a casual learner or serious polyglot, **MetaMask + Lango = total control + meaningful rewards**. 🚀🌍
